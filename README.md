@@ -1,6 +1,4 @@
 # Hi, I’m Mohammad Waliduddin 👋
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Waleeeeed88&show_icons=true&theme=tokyonight)](https://github.com/Waleeeeed88)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waleeeeed88&layout=compact&theme=tokyonight)](https://github.com/Waleeeeed88)
 
 ---
