@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Mohammad Waliduddin 👋
 
-<!--
-**Waleeeeed88/Waleeeeed88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Experience
+- **Software Developer Co-op, CIBC** (Sep–Dec 2024): Optimized UI components, built log-storage pipelines, authored production reports.  
+- **Software Intern, Bait Al Aseel** (Spring 2024): Developed RESTful APIs in C#, integrated SQL backends, automated testing with NUnit.  
+- **Teaching Assistant, York University** (’23–’25): Led lab/tutorial sessions for Java, data structures, and molecular biology courses.  
+- **Founder, TutorCraft & SoulFeelYoga** (’24–Present): Scaled two online services—tutoring and yoga—via targeted ads and lean operations.
 
-Here are some ideas to get you started:
+## 🚀 Project Snapshot
+Designed and delivered **10+** end-to-end systems across:
+- **Full-stack & Cloud** (Parking App, AI health chatbot, football predictor)  
+- **Embedded & FPGA** (VHDL/Verilog parking controller)  
+- **Machine Learning** (20B-parameter fine-tuned models, lab-report generator)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Top Languages
+**Java • Python • JavaScript/TypeScript • C# • VHDL**
+
+## 📚 Libraries & Frameworks
+React · Node.js · Firebase · Docker · Kubernetes · Jenkins · PyTorch · Hugging Face · JUnit · Selenium · Quartus Prime
