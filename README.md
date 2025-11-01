@@ -11,8 +11,8 @@ I enjoy architecting systems from scratch, designing UMLs, defining business rul
 ---
 
 ## 💼 Experience
+- **Full-stack Developer Co-op, Ontario government** _(Sep 2025 – Present)_
 - **Software Developer Co-op, CIBC** _(Sep 2024 – Dec 2024)_  
-- **Software Intern, Bait Al Aseel** _(May 2023 – Aug 2023)_
 
 ---
 
