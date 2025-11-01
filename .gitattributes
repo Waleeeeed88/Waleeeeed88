@@ -1,0 +1,7 @@
+
+*.ts linguist-detectable=true
+*.tsx linguist-detectable=true
+*.js linguist-language=TypeScript
+*.jsx linguist-language=TypeScript
+dist/* linguist-vendored
+build/* linguist-vendored
