@@ -1,73 +1,81 @@
-# 👋 Hi, I’m Mohammad Waliduddin
+# Mohammad Waliduddin
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waleeeeed88&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/Waleeeeed88)
-
----
-
-## 💡 About Me
-I love building meaningful software — projects that **solve real problems** or let me **experiment with ideas** I find exciting.  
-I enjoy architecting systems from scratch, designing UMLs, defining business rules, and debugging complex codebases (especially when AI breaks things 😅).
+## About Me
+I build full-stack and ML-driven software systems with a focus on performance, architecture, and clean design. I enjoy working across the entire stack—from frontend frameworks and backend APIs to cloud deployments, testing automation, and model training.
 
 ---
 
-## 💼 Experience
-- **Full-stack Developer Co-op, Ontario government** _(Sep 2025 – Present)_
-- **Software Developer Co-op, CIBC** _(Sep 2024 – Dec 2024)_  
+## GitHub Public Stats (Auto-Updating)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waleeeeed88&show_icons=true&theme=tokyonight&hide_title=true&count_private=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waleeeeed88&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 
-## 🚀 Projects
-- **YorkU Parking App** (Java · Swing · Firebase)  
-  Built a real-time parking management system with Firebase Cloud Functions, improving query efficiency by 45%.  
-  Led a team of 6 developers and managed end-to-end project execution.
+## Skills
 
-- **Treatify** (React · Node.js · Python · GPT-Neo)  
-  Developed a medical-document chatbot that parsed 100+ PDFs and fine-tuned a 20B-parameter GPT-Neo model on clinical records.  
-  Deployed on Google Cloud Run with 99.8% uptime.
+### Languages
+Java, Python, TypeScript, C#, JavaScript, SQL, HTML/CSS
 
-- **FPGA Car Parking System** (VHDL · Intel Quartus Prime)  
-  Implemented an FSM-based controller on Intel MAX 10 FPGA with sensor debouncing, clock division, and display multiplexing.  
-  Verified via ModelSim simulation.
+### Frameworks & Libraries
+React, Angular, Node.js, Express.js, FastAPI, Flask, NumPy, pandas, PyTorch, Transformers, Selenium
+
+### Cloud & DevOps
+Docker, Google Cloud Run, Firebase, AWS, CI/CD (Azure DevOps, CircleCI), Git, Playwright
 
 ---
 
-## 🎓 Education
-**B.Eng. in Software Engineering**, York University _(Sept 2022 – Aug 2026)_  
-GPA: 3.0 / 4.0  
-**Relevant Courses:** Data Structures & Algorithms · Cloud Computing · Software Design & Architecture · Web Development · Operating Systems
+## Experience
+
+### Software Developer Co-op — Ontario Ministry of Public and Business Service Delivery  
+*Sept 2025 – Apr 2026 (Expected)*  
+- Building Angular-based UI components and TypeScript workflows.  
+- Integrating Java Spring Boot APIs, handling data models and real-time state.  
+- Developing automated test suites using Playwright.  
+- Improving UX and accessibility for internal program users.
+
+### Software Developer Co-op — CIBC  
+*Sept 2024 – Dec 2024*  
+- Built React/TypeScript features including localStorage-based update suppression (10% engagement increase).  
+- Designed UML diagrams reducing design revisions by 12%.  
+- Automated SIC/TCP reporting using Python + cron (70% manual effort reduction, 99% accuracy).  
+- Led assessment and rollout of ECIF enhancements, reducing tickets by 20%.
 
 ---
 
-## 🛠️ Skills
+## Projects
 
-### 💻 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
-</p>
+### REAI – Real Estate Price Predictor  
+*Python, XGBoost, Flask, Docker, Cloud Run, Imagen 4 Ultra*  
+- Trained an XGBoost model (~97.5% accuracy).  
+- Built APIs for valuations and mortgage calculations.  
+- Integrated Google Imagen 4 Ultra for property renders.  
+- Containerized and deployed on Cloud Run.
 
-### ⚙️ Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />
-</p>
+### YorkU Parking App  
+*Java, SwingWorker, Firebase Firestore, Cloud Functions*  
+- Built a real-time parking management system with Firestore batch updates.  
+- Developed responsive Swing UI flows.  
+- Implemented JUnit tests, Randoop-generated logic tests, and Selenium UI tests.
 
-### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud" />
-</p>
+### FPGA Car Parking System  
+*VHDL, SystemVerilog, DE10-Lite FPGA*  
+- Developed FSM-based controller with safe input handling.  
+- Added 7-segment multiplexing and clock division.  
+- Verified design via ModelSim.
 
 ---
 
-📫 **Reach me:**  
-[walid40@my.yorku.ca](mailto:walid40@my.yorku.ca) · [LinkedIn](https://linkedin.com/in/mohammad-waliduddin-918aa1244) · [GitHub](https://github.com/Waleeeeed88)
+## Education  
+**B.Eng. Software Engineering**, York University  
+2022–2027  
+GPA: 3.11 / 4.0  
+Coursework: DS&A, Software Design, Algorithm Design, Advanced OOP, Database Systems, Security
+
+---
+
+## Contact  
+**Email:** walid40@my.yorku.ca  
+**LinkedIn:** linkedin.com/in/mohammad-waliduddin-918aa1244  
+**GitHub:** github.com/Waleeeeed88
