@@ -1,50 +1,104 @@
+# Mohammad Waliduddin
+Software Engineering Student (York University) • Full-Stack • ML • Cloud
+
+**Portfolio:** https://waleeeeed88.github.io/portfolio/  
+**LinkedIn:** https://www.linkedin.com/in/mohammad-waliduddin-918aa1244  
+**Email:** walid40@my.yorku.ca  
+
+---
+
+## Tech
+Java • Python • TypeScript • Angular • React • Spring Boot  
+GCP • Azure • Docker • PostgreSQL • Git • Playwright
+
+---
+
+## Experience
+
+**Software Developer Co-op — Ontario Public Service** (Sept 2025 – Present)  
+- Modernizing UI with Angular and backend services with Spring Boot  
+- Automated end-to-end testing using Playwright  
+- Improved reliability and delivery quality through test automation and validation
+
+**Software Developer Co-op — CIBC** (Sept 2024 – Dec 2024)  
+- Automated reporting workflows and reduced manual effort significantly  
+- Supported multiple releases and helped reduce incident volume  
+- Contributed across internal apps and tooling
+
+---
+
+## Projects
+
+**REAI — Real Estate Price Predictor**  
+- XGBoost model + pipeline, containerized and deployed
+- Live: https://aires-production.up.railway.app/  
+- Code: https://github.com/Waleeeeed88
+
+**YorkU Parking App**  
+- Real-time booking system (Java + Firebase + serverless)
+- Code: https://github.com/Waleeeeed88
+
+**CLAI — Multi-Agent Orchestration (MCP)**  
+- AI agents that collaborate like an IT team; Rich CLI interface
+- Code: https://github.com/Waleeeeed88
+
+---
+
+## What I’m focused on now
+Cloud deployments • CI/CD • Test automation • Applied ML systems
+
+- Modernizing UI using **Angular** and building REST services with **Spring Boot**
+- Automated end-to-end testing using **Playwright**
+- Improved UX flows using analytics insights (click-depth reduction, navigation improvements)
+
+**Software Developer Co-op — CIBC** *(Sept 2024 – Dec 2024)*  
+- Automated reporting workflows (major time savings)
+- Worked on internal apps with **React/TypeScript** + **Azure**
+- Supported multiple releases + incident reduction initiatives
+
+---
+
+## Projects (high signal)
+### 🏠 REAI — Real Estate Price Predictor
+- XGBoost model + data pipeline, containerized with Docker, deployed on Cloud Run  
+- Repo: https://github.com/Waleeeeed88  
+- Live: https://aires-production.up.railway.app/
+
+### 🅿️ YorkU Parking App
+- Real-time booking system with Java Swing + Firebase + serverless functions  
+- Repo: https://github.com/Waleeeeed88/ParkingApp
+
+### 🤖 CLAI — Multi-Agent Orchestration (MCP)
+- AI agents collaborate like an IT team; Rich CLI to visualize decision-making  
+- Repo: https://github.com/Waleeeeed88/CLAI
+
+---
+
+## Stats (fixed + less buggy)
 <div align="center">
 
-# Mohammad Waliduddin
-### Software Engineering Student | Full Stack & ML
+<!-- Top Languages: exclude noisy repos + add cache-bust -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waleeeeed88&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&exclude_repo=Waleeeeed88.github.io&cache_seconds=86400&v=2" />
 
-<p align="center">
-  <a href="https://waleeeeed88.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-ff69b4?style=for-the-badge&logo=code&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-waliduddin-918aa1244">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:walid40@my.yorku.ca">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<!-- Main Stats -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Waleeeeed88&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
 
-### 🛠️ Tech Stack
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,angular,react,spring,gcp,docker,postgres,git&theme=dark" />
-</a>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Waleeeeed88&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
 ---
 
-### 💼 Experience
-
-* [cite_start]**Software Developer Co-op @ Ontario Public Service** *(Sept 2025 – Present)* [cite: 6, 7, 10]
-  * [cite_start]Modernizing government UI with **Angular** and **Spring Boot** (99.5% API success rate)[cite: 11].
-  * [cite_start]Automated critical testing workflows using **Playwright**[cite: 12].
-
-* [cite_start]**Software Developer Co-op @ CIBC** *(Sept 2024 – Dec 2024)* [cite: 15, 16, 17]
-  * [cite_start]Reduced manual reporting time by **70%** via **Java** automation[cite: 21].
-  * [cite_start]Shipped 5 major releases and reduced incident tickets by **20%**[cite: 19].
+## Currently Learning
+- Cloud: **GCP Cloud Run / Vertex AI**, **Azure DevOps**
+- Testing: **Playwright**, CI pipelines
+- ML: feature engineering + deployment patterns
 
 ---
 
-### 🚀 Key Projects
-
-| **[REAI (Real Estate Predictor)](https://github.com/Waleeeeed88)** | **[YorkU Parking App](https://github.com/Waleeeeed88)** |
-| :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=python,docker,gcp" height="30"/> | <img src="https://skillicons.dev/icons?i=java,firebase" height="30"/> |
-| [cite_start]**XGBoost** model for housing prices deployed on **Cloud Run**[cite: 24, 27, 28]. | [cite_start]Real-time booking system using **Swing** & **Cloud Functions**[cite: 29, 30, 33]. |
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Waleeeeed88&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>|
+## Contact
+- Email: **walid40@my.yorku.ca**
+- LinkedIn: https://www.linkedin.com/in/mohammad-waliduddin-918aa1244
+- Portfolio: https://waleeeeed88.github.io/portfolio/
