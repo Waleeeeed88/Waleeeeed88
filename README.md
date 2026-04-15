@@ -141,7 +141,6 @@ A production-style ML app for property price prediction with a trained model, de
 
 </div>
 
----
 
 ## Dynamic Visuals
 
