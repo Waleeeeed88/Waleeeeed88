@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Mohammad%20Waliduddin&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-# Mohammad Waliduddin
-
 ### Software Engineering Student @ York University  
 **Full-Stack • ML • Cloud • Test Automation**
 
