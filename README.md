@@ -143,9 +143,10 @@ A production-style ML app for property price prediction with a trained model, de
 
 
 ## Dynamic Visuals
-
-### Contribution Snake
-```md
 <p align="center">
   <img src="https://raw.githubusercontent.com/Waleeeeed88/Waleeeeed88/output/snake.svg" alt="Snake animation" />
 </p>
+
+### Contribution Snake
+```md
+
