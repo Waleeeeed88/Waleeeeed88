@@ -2,95 +2,81 @@
 
 # Mohammad Waliduddin
 
-**Software Engineering Student @ York University**  
-Full-Stack • Cloud • ML • Test Automation
+**Software Engineering @ York University**  
+full-stack systems · ML products · agentic dev tools
 
-[Portfolio](https://waleeeeed88.github.io/portfolio/) • [LinkedIn](https://www.linkedin.com/in/mohammad-waliduddin-918aa1244) • [GitHub](https://github.com/Waleeeeed88) • [TechYork](https://techyork.ca) • [Email](mailto:walid40@my.yorku.ca)
+[Portfolio](https://waleeeeed88.github.io/portfolio/) ·
+[LinkedIn](https://www.linkedin.com/in/mohammad-waliduddin-918aa1244) ·
+[GitHub](https://github.com/Waleeeeed88) ·
+[TechYork](https://techyork.ca) ·
+[Email](mailto:walid40@my.yorku.ca)
 
-<img src="https://komarev.com/ghpvc/?username=Waleeeeed88&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Waleeeeed88&label=views&color=2563eb&style=flat" alt="Profile views" />
 
 </div>
 
 ---
 
-## About
+## hey, I'm Walid
 
-I’m a Software Engineering student at York University with co-op experience building production-facing systems across government and banking. My work spans modern frontend development, backend APIs, cloud deployment, AI-assisted workflows, and end-to-end automation.
+software engineering student building things around full-stack platforms, ML systems, and AI agents.
 
-I’m currently focused on building reliable software with Angular, Spring Boot, Playwright, cloud platforms, and applied ML systems.
+i like projects that feel a bit more alive than a normal CRUD app — tools that reason over repos, platforms with real users, and ML systems that actually make it to deployment.
 
----
-
-## Experience
-
-### Ontario Government (MPBSD) — Software Developer Co-op  
-**Sep 2025 – Present · Toronto, ON**
-- Built Angular and Spring Boot features for production systems with stronger validation and reliability
-- Expanded Playwright end-to-end coverage to about 90%
-- Integrated LLM-powered automations into internal workflows
-- Implemented Oracle SQL data-quality checks across backend pipelines
-- Delivered WCAG-compliant UI components aligned with design standards
-
-### CIBC — Software Developer Co-op  
-**Sep 2024 – Dec 2024 · Toronto, ON**
-- Automated SIC and trustee-code processing workflows, reducing processing time by 70%
-- Built features for a React and Azure-based internal notification platform
-- Authored technical specs and data mappings for cross-functional workflows
-- Supported production releases with stronger validation and coordination
+currently around **Next.js**, **ASP.NET Core**, **Python**, **XGBoost**, **LLM agents**, **Docker**, and cloud deploys.
 
 ---
 
-## Selected Projects
+## main builds
 
-### TechYork
-**Next.js · ASP.NET Core · PostgreSQL · SignalR · Tailwind CSS**  
-**Live:** [techyork.ca](https://techyork.ca)
+### [TechYork](https://techyork.ca)  
+**Next.js · ASP.NET Core · PostgreSQL · SignalR**
 
-A full-stack academic platform for York University computing students, designed to centralize resources, course planning, events, and peer engagement.
+a student platform for York computing students — resources, events, profiles, collaboration, and academic tooling in one place.
 
-### CodeCheap
-**Python · LLM Agents · OpenRouter · customtkinter · NetworkX**  
-A repo-aware AI orchestration tool where a primary coding assistant plans and reviews work while lower-cost workers execute bounded tasks in parallel.
+### CLAI  
+**Python · Multi-Agent Systems · Rich CLI**
 
-### CLAI
-**Python · Multi-Agent Systems · Rich CLI**  
-A multi-agent command-line system where implementation, review, and debugging tasks are routed through specialized agents with shared context.
+a command-line AI team where specialized agents handle coding, debugging, review, and implementation workflows with shared context.
 
-### REAI
-**Python · XGBoost · Docker · GCP Cloud Run**  
-A production-style real estate price prediction system with model training, deployment, and live inference workflow.
+### REAI  
+**Python · XGBoost · Docker · GCP Cloud Run**
+
+a real estate price prediction app with preprocessing, model training, deployment, and live inference.
 
 ---
 
-## Technical Skills
+## what i'm into
+
+- agentic coding systems
+- repo-aware AI tools
+- full-stack platforms with real users
+- ML products that leave the notebook
+- cloud-native backend systems
+- developer tooling that actually saves time
+
+---
+
+## stack
 
 **Languages**  
-Python, Java, TypeScript, C#, SQL, HTML, CSS
+Python · TypeScript · C# · Java · SQL
 
-**Frameworks**  
-Next.js, Angular, React, Spring Boot, Node.js, Express.js, FastAPI, Flask, ASP.NET Core
+**Frontend**  
+Next.js · React · Angular · Tailwind
+
+**Backend**  
+ASP.NET Core · Spring Boot · Node.js · FastAPI · Flask
 
 **ML / AI**  
-Pandas, PySpark, XGBoost, Optuna, PyTorch, RAG, LLM prompting, AI agents, workflow automation
+XGBoost · PyTorch · Pandas · Optuna · RAG · LLM agents
 
-**Cloud / DevOps**  
-GCP, Azure DevOps, AWS, Docker, Git, Firebase
-
-**Testing / Tooling**  
-Playwright, Selenium, JUnit, Rich CLI, NetworkX, customtkinter
+**Cloud / Tools**  
+GCP · Azure · AWS · Docker · Firebase · Git · Playwright
 
 ---
 
-## Highlights
-
-- Production experience across government and banking environments
-- Strong interest in developer tooling, cloud systems, and scalable product engineering
-- Experience combining software engineering with AI automation and ML deployment
-- Built systems across web, backend, automation, and intelligent tooling
-
----
-
-## GitHub Snapshot
+## github
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Waleeeeed88&show_icons=true&hide_border=true&title_color=111827&text_color=374151&icon_color=2563eb&bg_color=ffffff" />
@@ -99,9 +85,11 @@ Playwright, Selenium, JUnit, Rich CLI, NetworkX, customtkinter
 
 ---
 
-## Contact
+<div align="center">
 
-- **Portfolio:** [waleeeeed88.github.io/portfolio](https://waleeeeed88.github.io/portfolio/)
-- **LinkedIn:** [mohammad-waliduddin-918aa1244](https://www.linkedin.com/in/mohammad-waliduddin-918aa1244)
-- **TechYork:** [techyork.ca](https://techyork.ca)
-- **Email:** [walid40@my.yorku.ca](mailto:walid40@my.yorku.ca)
+[portfolio](https://waleeeeed88.github.io/portfolio/) ·
+[github](https://github.com/Waleeeeed88) ·
+[linkedin](https://www.linkedin.com/in/mohammad-waliduddin-918aa1244) ·
+[email](mailto:walid40@my.yorku.ca)
+
+</div>
